@@ -21,7 +21,7 @@ Starting galaxy collection install process
 Nothing to do. All requested collections are already installed. If you want to reinstall them, consider using `--force`.
 [root@655766b8d897 runner]#
 
-============= Next Steps commit, tag the image and push to repository ===============================
+============= Next Steps commit, tag the image and push to repository are out of conatiner ===============================
 
 exit from conatiner 
 [root@655766b8d897 runner]# exit
