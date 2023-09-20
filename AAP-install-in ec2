@@ -1,0 +1,16 @@
+Register with redhat and get 60 days free trail for AAP Latest version and download tar.gz file
+Create redhat (latest) instance  m4.large and storage of 50GB and allow inbound 80 and 443 TCP connections
+Open cmd and go where tar file exists (cd downloads)
+Copy the .tar.gz in server and gunzip and later untar the file
+make changes in inventory 
+[automationcontroller]
+hostname ansible_connection=local 
+add "admin password" and "pg password"in file
+
+run ./setup.sh
+
+1using https://ip we can open tower (using the creds which we have set in inventory file)
+
+when opening tower using ip, subscription management will come and there we should give redhat portal username and password
+later subscription will populate, should select and click on next next.
+done	
