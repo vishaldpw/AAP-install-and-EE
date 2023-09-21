@@ -1,3 +1,5 @@
-# docker-for-rayank1
+This Documents outlines following
 
-We will show case how we add collection or modules to EE in ansible
+Install Ansible Automation Platform
+Configure Execution Environment
+
