@@ -33,6 +33,8 @@ Provide your Red Hat Portal username and password.
 **Step 9:** After providing your Red Hat credentials, the subscriptions will populate. 
 Select the appropriate subscription and proceed by clicking "Next" as needed.
 
+quay.io/rayank/ansible-modules:77   (this is the exection Environment - we use) 
+
 **Step 10:** You're done! Ansible Automation Platform is now installed and configured on your Red Hat instance, and you can begin using it for automation tasks.
 
 Please note that the actual commands and paths may vary depending on your specific setup and environment. 
