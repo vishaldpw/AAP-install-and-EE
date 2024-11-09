@@ -1,4 +1,0 @@
-what ansible galaxy
-How many jobs executed by default ? How can you increase number of simantaneous execution
-What is Service Mesh in AAP 
-what types are source plugin are available in ansible eda ?
